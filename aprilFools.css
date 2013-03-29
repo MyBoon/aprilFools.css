@@ -108,6 +108,13 @@ body {
 }
 */
 
+/*
+  Turn every website black and white
+*/
+body {
+  /*-webkit-filter: grayscale(100%);*/
+}
+
 /* Animations */
 
 @-webkit-keyframes blur {
