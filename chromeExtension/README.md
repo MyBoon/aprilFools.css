@@ -8,5 +8,5 @@ Perfect for a good April fool :)
   
 17 effects available : upside down, blur, html pride, 90's, spin, fade out, slowly grow text and many more ...
 
-	[1]: https://chrome.google.com/webstore/detail/aprilfools/imkdafnalljikgogmjdccklndcdbfnng
+[1]: https://chrome.google.com/webstore/detail/aprilfools/imkdafnalljikgogmjdccklndcdbfnng
 
