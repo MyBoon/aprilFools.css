@@ -108,21 +108,6 @@ body {
 }
 */
 
-/*
-  Turn every website black and white
-*/
-body {
-  /*-webkit-filter: grayscale(100%);*/
-}
-
-/*
-  Fade out slowly all website text
-*/
-p {
-  /*-webkit-transition: opacity 10s ease-in;
-  opacity: 0;*/
-}
-
 /* Animations */
 
 @-webkit-keyframes blur {
